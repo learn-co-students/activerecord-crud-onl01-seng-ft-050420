@@ -1,2 +1,2 @@
 ss Movie < ActiveRecord::Base
-endcla
+end
